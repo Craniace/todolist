@@ -13,6 +13,7 @@ Live App: [Visit the live app here!](https://main.d3m0lb4cqncedk.amplifyapp.com/
 
 ### Step 3
 ![image](https://github.com/user-attachments/assets/155eeb2d-0d11-4bca-9c04-5f5264eeb1ff)
+![image](https://github.com/user-attachments/assets/68eb8cef-acab-4998-b2da-a3311c76a23c)
 
 ### Step 4
 ![image](https://github.com/user-attachments/assets/aacae925-5491-40b7-95e4-9955852a7da7)
