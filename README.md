@@ -15,4 +15,4 @@ Live App: [Visit the live app here!](https://main.d3m0lb4cqncedk.amplifyapp.com/
 ![image](https://github.com/user-attachments/assets/155eeb2d-0d11-4bca-9c04-5f5264eeb1ff)
 
 ### Step 4
-![image](https://github.com/user-attachments/assets/4e1c99d1-ddc6-4a1e-af9c-
+![image](https://github.com/user-attachments/assets/aacae925-5491-40b7-95e4-9955852a7da7)
